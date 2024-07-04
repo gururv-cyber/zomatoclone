@@ -1,3 +1,3 @@
-# this is my project
+# this is my zomato project
 amrita
 guru
